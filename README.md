@@ -1,6 +1,6 @@
 Face Detection Mobile App
 
-![screenshot-2023-02-04-18-10-51](https://user-images.githubusercontent.com/57721279/216768495-da3f05c3-94c1-4508-8218-bb8f098943c8.png)
+![image](https://user-images.githubusercontent.com/57721279/216768562-283d0789-81ff-478c-a8e3-94ebc45ffcfd.png)
 
 
 # Getting Started with Create React App
