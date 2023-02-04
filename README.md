@@ -1,4 +1,4 @@
-Face Detection Mobile App
+Face Detection Web App
 
 ![image](https://user-images.githubusercontent.com/57721279/216768562-283d0789-81ff-478c-a8e3-94ebc45ffcfd.png)
 
